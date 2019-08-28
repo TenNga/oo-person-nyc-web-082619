@@ -14,8 +14,8 @@ class Person
            # num = 10
             @happiness = 10
         elsif num < 0
-            num = 0
-            @happiness = num
+           # num = 0
+            @happiness = 0
         else 
             @happiness = num
         end
